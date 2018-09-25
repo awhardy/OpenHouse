@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\bin\Debug\netcoreapp2.1\OpenHouse.deps.json
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\bin\Debug\netcoreapp2.1\OpenHouse.runtimeconfig.json
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\bin\Debug\netcoreapp2.1\OpenHouse.runtimeconfig.dev.json
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\bin\Debug\netcoreapp2.1\OpenHouse.dll
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\bin\Debug\netcoreapp2.1\OpenHouse.pdb
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\obj\Debug\netcoreapp2.1\OpenHouse.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\obj\Debug\netcoreapp2.1\OpenHouse.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\obj\Debug\netcoreapp2.1\OpenHouse.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\obj\Debug\netcoreapp2.1\OpenHouse.AssemblyInfo.cs
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\obj\Debug\netcoreapp2.1\OpenHouse.dll
+C:\Users\andre\source\repos\OpenHouse\OpenHouse\obj\Debug\netcoreapp2.1\OpenHouse.pdb
