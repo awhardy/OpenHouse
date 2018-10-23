@@ -22,8 +22,8 @@ namespace OpenHouse
             {
                 continueCheck = false;
                 Console.WriteLine("Are you ready to have a look around?");
-                string answer = Console.ReadLine();
-                if (answer.ToUpper()[0] == 'N')
+                
+                if (Console.ReadLine().ToUpper()[0] == 'N')
                 {
                     continueCheck = true;
                     Console.WriteLine("Let me know if you change your mind. I will be right here.");
